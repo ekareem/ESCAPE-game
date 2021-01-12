@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound>
+    <effect source="asset/sounds/Arrow.wav"  id="arrow" />
+    <effect source="asset/sounds/jump.wav"  id="jump" />
+    <effect source="asset/sounds/laser.wav"  id="laser" />
+    <effect source="asset/sounds/pickup.wav"  id="pickup" />
+    <effect source="asset/sounds/Punch.wav"  id="punch" />
+    <effect source="asset/sounds/Shoot.wav"  id="shoot" />
+    <effect source="asset/sounds/Stairs.wav"  id="walk" />
+    <music source="asset/sounds/Skool.wav"  id="skool" />
+
+</sound>

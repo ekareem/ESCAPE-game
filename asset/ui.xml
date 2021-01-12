@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activites>
+    <activity name="start">
+
+        <button x= "50" y="556" w="64" h="64" name="level1"/>
+        <button x= "134" y="556" w="64" h="64" name="level2"/>
+        <button x= "218" y="556" w="64" h="64" name="level3"/>
+        <button x= "302" y="556" w="64" h="64" name="level4"/>
+        <button x= "386" y="556" w="64" h="64" name="level5"/>
+        <button x= "470" y="556" w="64" h="64" name="level6"/>
+        <button x= "554" y="556" w="64" h="64" name="level7"/>
+        <button x= "638" y="556" w="64" h="64" name="level8"/>
+        <button x= "722" y="556" w="64" h="64" name="level9"/>
+        <button x= "806" y="556" w="64" h="64" name="level10"/>
+        <button x= "792" y="20" w="64" h="64" name="quit"/>
+        <button x= "876" y="20" w="64" h="64" name="restart"/>
+        <button x= "464" y="20" w="64" h="64" name="current"/>
+        <button x= "20" y="20" w="64" h="64" name="instruct"/>
+
+    </activity>
+
+    <current name="start"/>
+</activites>

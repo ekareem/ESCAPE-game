@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>  
+    <texture id="foreground" w="160"  h="224" source="asset/tileset/inca_front.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="background" w="160"  h="224" source="asset/tileset/inca_back2.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="obstacle" w="160"  h="224" source="asset/tileset/inca_back.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="element" w="368"  h="224" source="asset/tileset/Assets.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    
+    <texture id="level1" w="21"  h="22" source="asset/texture/idle/Idle 1.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level2" w="21"  h="22" source="asset/texture/idle/Idle 2.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level3" w="21"  h="22" source="asset/texture/idle/Idle 3.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level4" w="21"  h="22" source="asset/texture/idle/Idle 4.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level5" w="21"  h="22" source="asset/texture/idle/Idle 5.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level6" w="21"  h="22" source="asset/texture/idle/Idle 6.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level7" w="21"  h="22" source="asset/texture/idle/Idle 7.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level8" w="21"  h="22" source="asset/texture/idle/Idle 8.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level9" w="21"  h="22" source="asset/texture/idle/Idle 9.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="level10" w="21"  h="22" source="asset/texture/idle/Idle 10.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+
+    <texture id="quit" w="21"  h="22" source="asset/texture/idle/quit 2.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="restart" w="21"  h="22" source="asset/texture/idle/restart 27.png" scaleX="3" scaleY ="3" angle = "0" flipX="False" flipY="False"/>
+    <texture id="instruct" w="64"  h="67" source="asset/texture/Pressed/Pressed 31.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="rule" w="480"  h="320" source="asset/texture/HTPPopUp50.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    
+    <texture id="Rock1" w="192"  h="32" source="asset/texture/Rock1.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Rock2" w="16"  h="16" source="asset/texture/Rock2.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    
+    <texture id="Dude_Monster" w="32"  h="32" source="asset/texture/dude_monster/Dude_Monster.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster" w="32"  h="32" source="asset/texture/owlet_monster/Owlet_Monster.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster" w="32"  h="32" source="asset/texture/pink_monster/pink_monster.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    
+    <texture id="curr_Dude" w="32"  h="32" source="asset/texture/dude_monster/Dude_Monster.png" scaleX="2" scaleY ="2" angle = "0" flipX="False" flipY="False"/>
+    <texture id="curr_Owlet" w="32"  h="32" source="asset/texture/owlet_monster/Owlet_Monster.png" scaleX="2" scaleY ="2" angle = "0" flipX="False" flipY="False"/>
+    <texture id="curr_Pink" w="32"  h="32" source="asset/texture/pink_monster/pink_monster.png" scaleX="2" scaleY ="2" angle = "0" flipX="False" flipY="False"/>
+    
+
+    <texture id="Walk_Run_Push_Dust_6" w="192"  h="32" source="asset/texture/Walk_Run_Push_Dust_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Double_Jump_Dust_5" w="160"  h="32" source="asset/texture/Double_Jump_Dust_5.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+
+    <texture id="trigger_2" w="32"  h="16" source="asset/animation/trigger_2.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    
+    <texture id="Dude_Monster_Attack1_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Attack1_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Attack2_6" w="192"  h="32" source="asset/animation/dude_monster/Dude_Monster_Attack2_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Climb_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Climb_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Death_8" w="256"  h="32" source="asset/animation/dude_monster/Dude_Monster_Death_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Hurt_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Hurt_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Idle_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Idle_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Jump_8" w="256"  h="32" source="asset/animation/dude_monster/Dude_Monster_Jump_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Jump_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Jump_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Fall_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Fall_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Push_6" w="192"  h="32" source="asset/animation/dude_monster/Dude_Monster_Push_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Run_6" w="192"  h="32" source="asset/animation/dude_monster/Dude_Monster_Run_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Throw_4" w="128"  h="32" source="asset/animation/dude_monster/Dude_Monster_Throw_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Walk_6" w="192"  h="32" source="asset/animation/dude_monster/Dude_Monster_Walk_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Dude_Monster_Walk+Attack_6" w="192"  h="32" source="asset/animation/dude_monster/Dude_Monster_Walk+Attack_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+
+    <texture id="Owlet_Monster_Attack1_4" w="128"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Attack1_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Attack2_6" w="192"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Attack2_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Climb_4" w="128"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Climb_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Death_8" w="256"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Death_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Hurt_4" w="128"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Hurt_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Idle_4" w="128"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Idle_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Jump_8" w="256"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Jump_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Jump_4" w="128"  h="32" source="asset/animation/Owlet_monster/Owlet_Monster_Jump_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Fall_4" w="128"  h="32" source="asset/animation/Owlet_monster/Owlet_Monster_Fall_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Push_6" w="192"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Push_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Run_6" w="192"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Run_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Throw_4" w="128"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Throw_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Walk_6" w="192"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Walk_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Owlet_Monster_Walk+Attack_6" w="192"  h="32" source="asset/animation/owlet_monster/Owlet_Monster_Walk+Attack_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+
+    <texture id="Pink_Monster_Attack1_4" w="128"  h="32" source="asset/animation/pink_monster/Pink_Monster_Attack1_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Attack2_6" w="192"  h="32" source="asset/animation/pink_monster/Pink_Monster_Attack2_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Climb_4" w="128"  h="32" source="asset/animation/pink_monster/Pink_Monster_Climb_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Death_8" w="256"  h="32" source="asset/animation/pink_monster/Pink_Monster_Death_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Hurt_4" w="128"  h="32" source="asset/animation/pink_monster/Pink_Monster_Hurt_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Idle_4" w="128"  h="32" source="asset/animation/pink_monster/Pink_Monster_Idle_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Jump_8" w="256"  h="32" source="asset/animation/pink_monster/Pink_Monster_Jump_8.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Jump_4" w="128"  h="32" source="asset/animation/Pink_monster/Pink_Monster_Jump_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Fall_4" w="128"  h="32" source="asset/animation/Pink_monster/Pink_Monster_Fall_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Push_6" w="192"  h="32" source="asset/animation/pink_monster/Pink_Monster_Push_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Run_6" w="192"  h="32" source="asset/animation/pink_monster/Pink_Monster_Run_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Throw_4" w="128"  h="32" source="asset/animation/pink_monster/Pink_Monster_Throw_4.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Walk_6" w="192"  h="32" source="asset/animation/pink_monster/Pink_Monster_Walk_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    <texture id="Pink_Monster_Walk+Attack_6" w="192"  h="32" source="asset/animation/pink_monster/Pink_Monster_Walk+Attack_6.png" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+</textures>

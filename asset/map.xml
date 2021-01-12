@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maps>
+    <map id = "level1" source = "asset/map/level1.tmx"/>
+    <map id = "level2" source = "asset/map/level2.tmx"/>
+    <map id = "level3" source = "asset/map/level3.tmx"/>
+    <map id = "level4" source = "asset/map/level4.tmx"/>
+    <map id = "level5" source = "asset/map/level5.tmx"/>
+    <map id = "level6" source = "asset/map/level6.tmx"/>
+    <map id = "level7" source = "asset/map/level7.tmx"/>
+    <map id = "level8" source = "asset/map/level8.tmx"/>
+    <map id = "level9" source = "asset/map/level9.tmx"/>
+    <map id = "level10" source = "asset/map/level10.tmx"/>
+</maps>

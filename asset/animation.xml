@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+
+    <spriteanimations>
+        <spriteanimation id = "trigger_2" texture = "trigger_2"  frameW = "16" frameH= "16" row = "0" frameCount = "2" repeat = "False" speed="100" scaleX="2" scaleY ="2" angle = "0" flipX="False" flipY="False"/>
+        
+
+        <spriteanimation id = "Dude_Monster" texture = "Dude_Monster"  frameW = "32" frameH= "32" row = "0" frameCount = "1" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Attack1_4" texture = "Dude_Monster_Attack1_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Attack2_6" texture = "Dude_Monster_Attack2_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Climb_4" texture = "Dude_Monster_Climb_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Death_8" texture = "Dude_Monster_Death_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Hurt_4" texture = "Dude_Monster_Hurt_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Idle_4" texture = "Dude_Monster_Idle_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Jump_8" texture = "Dude_Monster_Jump_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Jump_4" texture = "Dude_Monster_Jump_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Fall_4" texture = "Dude_Monster_Fall_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Push_6" texture = "Dude_Monster_Push_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "False" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Run_6" texture = "Dude_Monster_Run_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Throw_4" texture = "Dude_Monster_Throw_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="1" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Walk_6" texture = "Dude_Monster_Walk_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Dude_Monster_Walk+Attack_6" texture = "Dude_Monster_Walk+Attack_6" frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        
+        <spriteanimation id = "Owlet_Monster" texture = "Owlet_Monster"  frameW = "32" frameH= "32" row = "0" frameCount = "1" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Attack1_4" texture = "Owlet_Monster_Attack1_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Attack2_6" texture = "Owlet_Monster_Attack2_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Climb_4" texture = "Owlet_Monster_Climb_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Death_8" texture = "Owlet_Monster_Death_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Hurt_4" texture = "Owlet_Monster_Hurt_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Idle_4" texture = "Owlet_Monster_Idle_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Jump_8" texture = "Owlet_Monster_Jump_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Jump_4" texture = "Owlet_Monster_Jump_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Fall_4" texture = "Owlet_Monster_Fall_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Push_6" texture = "Owlet_Monster_Push_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Run_6" texture = "Owlet_Monster_Run_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Throw_4" texture = "Owlet_Monster_Throw_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Walk_6" texture = "Owlet_Monster_Walk_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Owlet_Monster_Walk+Attack_6" texture = "Owlet_Monster_Walk+Attack_6" frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        
+        <spriteanimation id = "Pink_Monster" texture = "Pink_Monster"  frameW = "32" frameH= "32" row = "0" frameCount = "1" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Attack1_4" texture = "Pink_Monster_Attack1_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Attack2_6" texture = "Pink_Monster_Attack2_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Climb_4" texture = "Pink_Monster_Climb_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Death_8" texture = "Pink_Monster_Death_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Hurt_4" texture = "Pink_Monster_Hurt_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Idle_4" texture = "Pink_Monster_Idle_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Jump_8" texture = "Pink_Monster_Jump_8"  frameW = "32" frameH= "32" row = "0" frameCount = "8" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Jump_4" texture = "Pink_Monster_Jump_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Fall_4" texture = "Pink_Monster_Fall_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "False" speed="50" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Push_6" texture = "Pink_Monster_Push_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Run_6" texture = "Pink_Monster_Run_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Throw_4" texture = "Pink_Monster_Throw_4"  frameW = "32" frameH= "32" row = "0" frameCount = "4" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Walk_6" texture = "Pink_Monster_Walk_6"  frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+        <spriteanimation id = "Pink_Monster_Walk+Attack_6" texture = "Pink_Monster_Walk+Attack_6" frameW = "32" frameH= "32" row = "0" frameCount = "6" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False"/>
+    </spriteanimations>
+
+    <sequenceanimations>
+        <!-- <sequenceanimation id = "boss" repeat = "True" speed="100" scaleX="1" scaleY ="1" angle = "0" flipX="False" flipY="False">
+            <texture id ="boss_idle1"/>
+            <texture id ="boss_idle2"/>
+            <texture id ="boss_idle3"/>
+            <texture id ="boss_idle4"/>
+            <texture id ="boss_idle5"/>
+            <texture id ="boss_idle6"/>
+        </sequenceanimation> -->
+    </sequenceanimations>
+    
+</animations>
